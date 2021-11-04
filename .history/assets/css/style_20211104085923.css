@@ -187,19 +187,6 @@ section {
     color: #024e76;
 }
 
-.step-img {
-    flex: 1 12%;
-    margin-right: 20px;
-}
-
-.step-text {
-    flex: 12;
-}
-
-.step-img img {
-    max-width: 100%;
-}
-
 .section-title {
     font-size: 55px;
     color: #024e76;
