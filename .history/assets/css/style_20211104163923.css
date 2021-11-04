@@ -414,7 +414,6 @@ section {
       flex: 100%;  
     }
 }
-
 @media screen and (max-width: 575px) {
 
     .hero-form button {
@@ -440,9 +439,4 @@ section {
     .contact-info > * {
       flex: 0 100%;
     }
-
-    .contact-form {
-        order: 3;
-      }
-
   }
