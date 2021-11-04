@@ -233,7 +233,7 @@
     justify-content: space-between;
   }
     
-  .step:not(:last-child) {
+  .step:nth-child(even) {
     border-bottom: 1px solid #39a6b2;
   }
   
