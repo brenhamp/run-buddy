@@ -234,11 +234,14 @@ section {
 }
 
 .trainer img {
-    width: 100%;
+    width: 35%;
+    float: left;
 }
 
 .trainer-bio {
-    padding: 25px;
+    padding: 35px;
+    float: left;
+    width: 65%;
     line-height: 1.3;
 }
 
